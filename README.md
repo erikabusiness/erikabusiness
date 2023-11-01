@@ -8,7 +8,7 @@
 
 💬 Pergunte-me também sobre Adobe Premiere, Adobe After Effects, Adobe Lightroom, Adobe Color, CapCut e Canva.
 
-⚡ Fun Fact: **Não sou Geek**, dou uns rolês de patins e amo tomar belos drinks pela minha cidade porque equilíbrio é tudo 😜
+⚡ Fun Fact: **Não sou Geek** 😜
 
 
 
