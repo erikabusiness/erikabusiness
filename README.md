@@ -6,7 +6,7 @@
 
 ▶️ Frequentemente refatoro meus projetos à medida que adquiro conhecimento sobre novas tecnologias.
 
-💬 Pergunte-me também sobre Adobe Premiere, Adobe After Effects, Adobe Lightroom, Adobe Color, CapCut e Canva.
+💬 Pergunte-me também sobre Adobe Premiere Pro, Adobe After Effects, Adobe Lightroom, Adobe Color, CapCut e Canva.
 
 ⚡ Fun Fact: **Não sou Geek** 😜
 
