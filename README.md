@@ -1,7 +1,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=alvserika&color=yellow" alt="Profile views"/>
 </p>
-[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?alvserika=alvserika&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Erika Alves</h1>
 
