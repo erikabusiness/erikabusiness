@@ -6,13 +6,13 @@
 
 🔥 Desenvolvedora Web Full Stack em formação pela Recode Pro na instituição Recode.
 
-🔭 Estou mergulhada nos estudos de React, Next, Tailwind.
+🔭 Atualmente, estou mergulhada nos estudos de React, Next e Tailwind.
 
-▶️ Refatoro meus projetos a medida que adiquiro conhecimento de novas tecnologias.
+▶️ Constantemente refatoro meus projetos à medida que adquiro conhecimento de novas tecnologias.
 
 💬 Também pode me perguntar sobre Adobe Ae, Au, Pr Pro, Lr, CapCut e Canvas.
 
-⚡ Fun fact:  Não sou geek 😜
+⚡ Fun fact: Não sou geek 😜
 
 
 
