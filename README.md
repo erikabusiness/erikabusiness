@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvserika&color=orange" alt="Profile views ❤️" /> </p>
 
-**Profile views**
-
 🔥 Desenvolvedora Web Full Stack em formação pela Recode Pro na instituição Recode.
 
 🔭 Atualmente, estou mergulhada nos estudos de React, Next e Tailwind.
