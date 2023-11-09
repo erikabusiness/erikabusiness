@@ -1,7 +1,7 @@
 
 
 
-  ![Status]([./profile-3d-contrib/profile-night-green.svg](https://github.com/alvserika/alvserika/blob/main/profile-3d-contrib/profile-night-rainbow.svg))
+  [./profile-3d-contrib/profile-night-green.svg](https://github.com/alvserika/alvserika/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 
  
