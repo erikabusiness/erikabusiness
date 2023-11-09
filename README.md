@@ -1,3 +1,18 @@
+# Olá, sou a Erika Alves
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alvserika&color=pink" alt="Profile views ❤️" /> </p>
+
+**Profile views**
+
+🔥 Desenvolvedora Web Full Stack em formação pela Recode Pro na instituição Recode.
+
+🔭 Estou mergulhada nos estudos de React, Next, Tailwind.
+
+▶️ Refatoro meus projetos a medida que adiquiro conhecimento de novas tecnologias.
+
+💬 Também pode me perguntar sobre Adobe Ae, Au, Pr Pro, Lr, CapCut e Canvas.
+
+⚡ Fun fact:  Não sou geek 😜
 
 
 
