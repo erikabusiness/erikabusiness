@@ -1,6 +1,6 @@
 # Olá, sou a Erika Alves
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erikabusiness&color=orange" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alvserika&color=orange" alt="Profile views" /> </p>
 
 🔥 Desenvolvedora Web Full Stack em formação pela Recode Pro na instituição Recode.
 
