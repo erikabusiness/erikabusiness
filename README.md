@@ -14,7 +14,7 @@
 
 
 
-  ![prifle-3d-contrib](https://github.com/alvserika/alvserika/raw/main/profile-3d-contrib/profile-night-rainbow.svg)
+  ![prifle-3d-contrib](https://raw.githubusercontent.com/erikabusiness/erikabusiness/f4c21f474987cad353835367221cadeb025516c5/profile-3d-contrib/profile-night-rainbow.svg)
 
 
 
@@ -30,7 +30,7 @@
  
 ##
    <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=alvserika&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+     <img src="https://github-profile-trophy.vercel.app/?username=erikabusiness&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
   
  
