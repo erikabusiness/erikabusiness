@@ -14,7 +14,8 @@
 
 
 
-  ![prifle-3d-contrib](https://raw.githubusercontent.com/erikabusiness/erikabusiness/f4c21f474987cad353835367221cadeb025516c5/profile-3d-contrib/profile-night-rainbow.svg)
+  ![prifle-3d-contrib](https://github.com/erikabusiness/erikabusiness/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+  
 
 
 
