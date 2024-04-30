@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvserika&color=orange" alt="Profile views" /> </p>
 
-🔥 Desenvolvedora Web Full Stack em formação pela Recode Pro na instituição Recode.
+🔥 Desenvolvedora Full Stack e UI Designer
 
-🔭 Atualmente, estou mergulhada nos estudos de React, Next, Tailwind e UX.
+🔭 Atualmente, estou mergulhada nos estudos de C# .NET e desenvolvimento mobile com Flutter.
 
 ▶️ Constantemente refatoro meus projetos à medida que adquiro conhecimento de novas tecnologias.
 
@@ -14,7 +14,7 @@
 
 
 
-  ![prifle-3d-contrib](https://github.com/erikabusiness/erikabusiness/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+  ![proifle-3d-contrib](https://github.com/erikabusiness/erikabusiness/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
   
 
 
@@ -22,7 +22,7 @@
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=javascript,css,html,react,next,tailwind,sass,figma,github,vite,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=javascript,bootstrap,react,next,tailwind,sass,figma,flutter,net," />
 </a>
   <br />
 
