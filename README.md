@@ -1,8 +1,7 @@
-# Erika Alves Malaquias
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvserika&color=orange" alt="Profile views" /> </p>
 
-🔥 Desenvolvedora .NET
 
 
 
