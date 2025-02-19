@@ -1,16 +1,8 @@
-# Olá, sou a Erika Alves
+# Erika Alves Malaquias
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvserika&color=orange" alt="Profile views" /> </p>
 
-🔥 Desenvolvedora Full Stack e UI Designer
-
-🔭 Atualmente, estou mergulhada nos estudos de C# .NET e desenvolvimento mobile com Flutter.
-
-▶️ Constantemente refatoro meus projetos à medida que adquiro conhecimento de novas tecnologias.
-
-💬 Também pode me perguntar sobre Adobe Ae, Au, Pr Pro, Lr, CapCut e Canvas.
-
-⚡ Fun fact: Não sou geek 😜
+🔥 Desenvolvedora .NET
 
 
 
