@@ -1,6 +1,6 @@
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alvserika&color=orange" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erikabusiness&color=orange" alt="Profile views" /> </p>
 
 
 
@@ -13,7 +13,7 @@
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=javascript,bootstrap,react,next,tailwind,sass,figma,flutter,net," />
+  <img src="https://skillicons.dev/icons?i=cs,net" />
 </a>
   <br />
 
