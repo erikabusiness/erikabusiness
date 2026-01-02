@@ -5,7 +5,8 @@
 
 
 
-  ![proifle-3d-contrib](https://github.com/erikabusiness/erikabusiness/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+  ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
   
 
 
